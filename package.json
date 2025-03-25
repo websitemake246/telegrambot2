@@ -1,0 +1,17 @@
+{
+  "name": "navigator-pay-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for managing coin investments and transactions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "King khalid",
+  "license": "MIT"
+}
